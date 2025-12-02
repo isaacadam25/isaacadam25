@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Adam
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me @isaacadam25
 
