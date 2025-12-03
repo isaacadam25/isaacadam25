@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Isaac Adam
+# 👋 Hi, I'm Issa Adam
 ### Software Engineer | Backend Developer | Distributed Systems Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isaac-adam&color=blue)  
