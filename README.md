@@ -68,7 +68,7 @@ PostgreSQL • Express.js • React • Node.js
 
 ## 🚀 What I Work On
 - Scalable microservice architectures  
-- NestJS best practices & clean modular design  
+- Best practices & clean modular design  
 - RabbitMQ messaging systems  
 - Kong API Gateway (DB-less mode)  
 - PostgreSQL data modeling & audit logs  
